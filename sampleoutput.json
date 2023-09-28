@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "TIMESOFINDIA.COM",
+        "title": "'Very much alive': Heath Streak not dead, messages to let Henry Olonga know - IndiaTimes",
+        "description": "Cricket News: The news of Zimbabwe legend Heath Streak's demise sent shockwaves through social media, leaving fans and experts taken aback. However, former Zimbabwe",
+        "url": "https://timesofindia.indiatimes.com/sports/cricket/news/very-much-alive-heath-streak-not-dead-messages-to-let-henry-olonga-know/articleshow/102961482.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-102961685,width-1070,height-580,imgsize-38206,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-08-23T05:42:00Z",
+        "content": "'Hitman' Rohit Sharma's Asia Cup (ODIs) records"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hindustan Times"
+        },
+        "author": "HT Sports Desk",
+        "title": "BCCI chief selector Agarkar's KL Rahul answer earns praise from ex-India star - Hindustan Times",
+        "description": "Sanjay Manjrekar was all praise for Ajit Agarkar as the chief selector answered several buzzing questions in his first media interaction. | Cricket",
+        "url": "https://www.hindustantimes.com/cricket/answer-about-kl-rahul-was-sanjay-manjrekar-mighty-impressed-with-ajit-agarkar-blockbuster-remark-on-india-star-asia-cup-101692719108991.html",
+        "urlToImage": "https://www.hindustantimes.com/ht-img/img/2023/08/22/1600x900/Collage_Maker-22-Aug-2023-11-51-PM-6239_1692731037044_1692731045502.jpg",
+        "publishedAt": "2023-08-23T03:41:47Z",
+        "content": "Has KL Rahul successfully recovered from a thigh injury? Why Yuzvendra Chahal was not named in Indias Asia Cup squad? Newly-appointed chief selector Ajit Agarkar answered several buzzing questions in… [+2667 chars]"
+      },
+      {
+        "source": {
+          "id": "the-times-of-india",
+          "name": "The Times of India"
+        },
+        "author": "TNN",
+        "title": "EC signs up Sachin Tendulkar as 'icon' to pitch for higher turnout in 2024 polls - IndiaTimes",
+        "description": "India News: Sachin Tendulkar, the renowned cricketer and Bharat Ratna awardee, will be signing a Memorandum of Understanding with the Election Commission (EC) to",
+        "url": "https://timesofindia.indiatimes.com/india/ec-signs-up-sachin-tendulkar-as-icon-to-pitch-for-higher-turnout-in-2024-polls/articleshow/102958662.cms",
+        "urlToImage": "https://static.toiimg.com/thumb/msid-102959324,width-1070,height-580,imgsize-25904,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+        "publishedAt": "2023-08-22T22:43:00Z",
+        "content": "10 most popular dishes in India, and Biryani is not a part of it"
+      }
+    ]
+  }
