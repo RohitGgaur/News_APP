@@ -86,7 +86,7 @@ static propType={
     return (
         <>
         <h1 className="text-center" style={{margin:'60px 0px'}}>Popular Daily News-Top Headlines</h1>
-         {/* <spinner/> */}
+       
          <InfiniteScroll
           dataLength={this.state.articles.length}
           next={this.fetchMoreData}
